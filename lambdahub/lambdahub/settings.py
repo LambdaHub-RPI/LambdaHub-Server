@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "rest_framework",
     "calendar_app",
+    "driver_app",
     'corsheaders',
 ]
 
