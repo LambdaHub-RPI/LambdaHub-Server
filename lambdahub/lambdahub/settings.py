@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     "rest_framework",
     "calendar_app",
     'corsheaders',
+    "announcement_app",
 ]
 
 MIDDLEWARE = [
